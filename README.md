@@ -1,7 +1,7 @@
 - 👋 Hola, Soy @Jorge-Giraldo.
 - 👀 Estoy totalmente atraido por el amplio mundo del Codigo
 - 🌱 Y actualemente me encuentro Aprendiendo Desarrollo web Full Stack
-- 💞️ Estoy buscando colaborar con Empresas Internacionales.
+- 💞️ Estoy buscando colaborar con Empresas Internacionales
 - 📫 Mi Instagram: jorgitoalgiza_ ; Mi Gmail: joalgiza.2004@gmail.com
 
 <!---
